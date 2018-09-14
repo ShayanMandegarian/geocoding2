@@ -105,7 +105,7 @@ echo "</script>";
 <html>
   <head>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBgFEGhTyZ7Qhd955EtDx-xrBZRyIPK7Rs&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=KEY_HERE&callback=initMap">
     </script>
     <style>
        /* Set the size of the div element that contains the map */
